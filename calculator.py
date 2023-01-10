@@ -4,15 +4,9 @@ def add(a, b):
 
 def subtract(a, b):
   return a-b
-<<<<<<< HEAD
-def divide(a, b):
-    return a/b
-## 나누기 추가
-=======
 
 def multiply(a, b):
   return a*b
 
-def divide_premium(a, b):  
+def divide_new(a, b):
   return a/b
->>>>>>> main
